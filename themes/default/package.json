@@ -22,7 +22,7 @@
     "clipboard-polyfill": "^2.8.1",
     "concurrently": "^5.2.0",
     "cssnano": "^5.0.3",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "postcss": "^8.2.15",
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.1.2",
